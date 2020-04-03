@@ -4,10 +4,10 @@
 [![Image from Gyazo](https://i.gyazo.com/0004e84cebe4cd73c80af3fdd9133267.jpg)](https://gyazo.com/0004e84cebe4cd73c80af3fdd9133267)
 
 ### 接続先情報
-[フリマ](http://18.180.41.211/)
-ID/Pass
-ID: admin
-Pass: 2222
+[フリマ](http://18.180.41.211/)  
+ID/Pass  
+ID: admin  
+Pass: 2222  
 
 **テスト用アカウント等**
 購入者用
@@ -18,8 +18,11 @@ Pass: 2222
   期限：12/20
   セキュリティコード：123
 出品者用
-  メールアドレス名: test2@gmail.com
-  パスワード: 1234567
+  メールアドレス名: test2@gmail.com  
+  パスワード: 1234567  
+  
+商品編集機能
+[![Image from Gyazo](https://i.gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b.gif)](https://gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b)
 
 # DB設計
 ## usersテーブル
