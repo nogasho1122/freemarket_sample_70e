@@ -29,9 +29,10 @@ Pass: 2222
 追加
 [![Image from Gyazo](https://i.gyazo.com/7eca277027d017ef36dda12f2139f567.gif)](https://gyazo.com/7eca277027d017ef36dda12f2139f567)　　
 削除　　
+[![Image from Gyazo](https://i.gyazo.com/2f7760ce1bea708f509b56ce5f9cc9f4.gif)](https://gyazo.com/2f7760ce1bea708f509b56ce5f9cc9f4)
 
-
-・カテゴリー機能では、親、子、孫要素の３つに分けてあり、親要素が変更されると子要素もリセットされるようになっています。
+・カテゴリー機能では、親、子、孫要素の３つに分けてあり、親要素が変更されると子要素もリセットされるようになっています。　　
+[![Image from Gyazo](https://i.gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3.gif)](https://gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3)
 
 
 # DB設計
