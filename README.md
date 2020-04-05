@@ -34,7 +34,7 @@ Pass: 2222
 ・カテゴリー機能では、親、子、孫要素の３つに分けてあり、親要素が変更されると子要素もリセットされるようになっています。　　
 [![Image from Gyazo](https://i.gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3.gif)](https://gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3)
 
-・新規登録画面　
+・新規登録画面  
 住所や生年月日など別テーブルに保存しなければならないデータも保存できるようにしました。
 [![Image from Gyazo](https://i.gyazo.com/e453b423891b7465d114c3e1567d43a5.gif)](https://gyazo.com/e453b423891b7465d114c3e1567d43a5)
 
