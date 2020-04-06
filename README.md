@@ -35,12 +35,17 @@ Pass: 2222
 [![Image from Gyazo](https://i.gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3.gif)](https://gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3)
 
 ・新規登録画面  
-住所や生年月日など別テーブルに保存しなければならないデータも保存できるようにしました。
+住所や生年月日など別テーブルに保存しなければならないデータも保存できるようにしました。  
+郵便番号は、  
+validates :post_code, format: { with: /\A\d{3}[-]\d{4}\z/, multiline: true}
+という記述で、３桁の数字ハイフン４桁の数字出ないと登録できないようにしました。
 [![Image from Gyazo](https://i.gyazo.com/e453b423891b7465d114c3e1567d43a5.gif)](https://gyazo.com/e453b423891b7465d114c3e1567d43a5)
 
 ・ログイン画面  
 ログインしていない際、そのまま新規登録画面へ移動できるようにしました。  
 [![Image from Gyazo](https://i.gyazo.com/c1b2bc18073e0efe6c213decc2e71fb5.png)](https://gyazo.com/c1b2bc18073e0efe6c213decc2e71fb5)
+
+
 
 # DB設計
 ## usersテーブル
