@@ -21,7 +21,7 @@ Pass: 2222
   メールアドレス名: test2@gmail.com    
   パスワード: 1234567  
   
-商品編集機能
+商品編集機能  
 ・元々のデータをそのまま持ってこれるようにしました。　　
 [![Image from Gyazo](https://i.gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b.gif)](https://gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b)
 
