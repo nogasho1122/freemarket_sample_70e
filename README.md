@@ -25,9 +25,9 @@ Pass: 2222
 ・元々のデータをそのまま持ってこれるようにしました。　　
 [![Image from Gyazo](https://i.gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b.gif)](https://gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b)  
 
-・画像の編集では編集画面で追加と編集の両方をできるようにしました。    　
+・画像の編集では編集画面で追加と編集の両方をできるようにしました。  　
 ・追加  
-[![Image from Gyazo](https://i.gyazo.com/7eca277027d017ef36dda12f2139f567.gif)](https://gyazo.com/7eca277027d017ef36dda12f2139f567)　　
+[![Image from Gyazo](https://i.gyazo.com/7eca277027d017ef36dda12f2139f567.gif)](https://gyazo.com/7eca277027d017ef36dda12f2139f567)
 ・削除　　
 [![Image from Gyazo](https://i.gyazo.com/2f7760ce1bea708f509b56ce5f9cc9f4.gif)](https://gyazo.com/2f7760ce1bea708f509b56ce5f9cc9f4)  
 
