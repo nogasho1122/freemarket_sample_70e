@@ -23,24 +23,24 @@ Pass: 2222
   
 商品編集機能  
 ・元々のデータをそのまま持ってこれるようにしました。　　
-[![Image from Gyazo](https://i.gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b.gif)](https://gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b)
+[![Image from Gyazo](https://i.gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b.gif)](https://gyazo.com/718cadecaae90f68a7fc0c93eaf5be2b)  
 
-・画像の編集では編集画面で追加と編集の両方をできるようにしました。   　
-・追加
+・画像の編集では編集画面で追加と編集の両方をできるようにしました。    　
+・追加  
 [![Image from Gyazo](https://i.gyazo.com/7eca277027d017ef36dda12f2139f567.gif)](https://gyazo.com/7eca277027d017ef36dda12f2139f567)　　
 ・削除　　
 [![Image from Gyazo](https://i.gyazo.com/2f7760ce1bea708f509b56ce5f9cc9f4.gif)](https://gyazo.com/2f7760ce1bea708f509b56ce5f9cc9f4)  
 
-・カテゴリー機能では、親、子、孫要素の３つに分けてあり、親要素が変更されると子要素もリセットされるようになっています。　
-・その他の選択画面もデータがそのままひきつがれるようになっています。変更も可能です。
-[![Image from Gyazo](https://i.gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3.gif)](https://gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3)
+・カテゴリー機能では、親、子、孫要素の３つに分けてあり、親要素が変更されると子要素もリセットされるようになっています。  
+・その他の選択画面もデータがそのままひきつがれるようになっています。変更も可能です。  
+[![Image from Gyazo](https://i.gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3.gif)](https://gyazo.com/462c87a8c5cd42158c9c5e6fa4620aa3)  
 
 ・新規登録画面  
-住所や生年月日など別テーブルに保存しなければならないデータも保存できるようにしました。  
+住所や生年月日など別テーブルに保存しなければならないデータも保存できるようにしました。   
 郵便番号は、  
 validates :post_code, format: { with: /\A\d{3}[-]\d{4}\z/, multiline: true}
-という記述で、３桁の数字ハイフン４桁の数字出ないと登録できないようにしました。
-[![Image from Gyazo](https://i.gyazo.com/e453b423891b7465d114c3e1567d43a5.gif)](https://gyazo.com/e453b423891b7465d114c3e1567d43a5)
+という記述で、３桁の数字ハイフン４桁の数字出ないと登録できないようにしました。  
+[![Image from Gyazo](https://i.gyazo.com/e453b423891b7465d114c3e1567d43a5.gif)](https://gyazo.com/e453b423891b7465d114c3e1567d43a5)  
 
 ・ログイン画面  
 ログインしていない際、そのまま新規登録画面へ移動できるようにしました。  
