@@ -53,7 +53,7 @@ validates :post_code, format: { with: /\A\d{3}[-]\d{4}\z/, multiline: true}
 
 
 # DB設計  
-・グループで話し合い作成しました。
+グループで話し合い作成しました。
 ## usersテーブル
 |Column|Type|Options|
 |------|----|-------|
