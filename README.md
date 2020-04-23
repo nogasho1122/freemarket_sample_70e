@@ -175,4 +175,3 @@ validates :post_code, format: { with: /\A\d{3}[-]\d{4}\z/, multiline: true}
 |item_id|references|null: false, foreign_key: true|
 ### Association
 - belongs_to :item
-
